@@ -1,0 +1,3 @@
+[submodule "mscs_utrgv_cs6330_intro_2_ds"]
+	path = mscs_utrgv_cs6330_intro_2_ds
+	url = git@github.com:intothedeep/mscs_cs6330_intro_2_ds.git
