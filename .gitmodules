@@ -4,3 +4,15 @@
 [submodule "mscs_utrgv_cs6371_robot"]
 	path = mscs_utrgv_cs6371_robot
 	url = git@github.com:intothedeep/mscs_utrgv_cs6371_robot.git
+[submodule "mscs_utrgv_cs6355_bioinfometrics"]
+	path = mscs_utrgv_cs6355_bioinfometrics
+	url = https://github.com/intothedeep/mscs_utrgv_cs6355_bioinfometrics.git
+[submodule "ta_cs6379_deep_learning"]
+	path = ta_cs6379_deep_learning
+	url = https://github.com/intothedeep/mscs_utrgv_ta_cs6379_deep_learning.git
+[submodule "mscs_utrgv_dr_jiao"]
+	path = mscs_utrgv_dr_jiao
+	url = https://github.com/intothedeep/mscs_utrgv_dr_jiao.git
+[submodule "ta_cs3320_ai_python"]
+	path = ta_cs3320_ai_python
+	url = git@github.com:intothedeep/mscs_utrgv_ta_cs3320_ai_python.git
